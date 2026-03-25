@@ -89,3 +89,26 @@ This project demonstrates multiple sorting algorithms and compares their output.
 Bubble Sort: [2, 3, 4, 5, 8]
 Selection Sort: [2, 3, 4, 5, 8]
 Insertion Sort: [2, 3, 4, 5, 8]
+
+# 🌐 Graph Shortest Path Finder
+
+## 📌 Description
+This project finds the shortest path in an unweighted graph using BFS (Breadth-First Search).
+
+## 🚀 Features
+- Graph representation using adjacency list
+- Add edges
+- Find shortest distance from source node
+
+## 🧠 Concepts Used
+- Graph
+- BFS (Breadth-First Search)
+- Queue
+
+## ▶️ Sample Output
+Shortest distances from node 0:
+To 0 -> 0
+To 1 -> 1
+To 2 -> 1
+To 3 -> 2
+To 4 -> 2
