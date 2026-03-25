@@ -11,3 +11,12 @@
 
 ## 🎯 Goal
 Practice core DSA concepts for coding interviews.
+## 🔗 Linked List
+- Singly Linked List (Insert, Display)
+
+## 🔍 Searching
+- Binary Search
+
+## 🔁 Recursion
+- Factorial
+- Fibonacci
