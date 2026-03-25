@@ -69,3 +69,23 @@ It simulates a simple system where data is stored and retrieved efficiently usin
 ---
 
 ## 📂 File Structure
+# 🔄 Sorting Analyzer
+
+## 📌 Description
+This project demonstrates multiple sorting algorithms and compares their output.
+
+## 🚀 Features
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Displays sorted arrays
+
+## 🧠 Concepts Used
+- Arrays
+- Sorting Algorithms
+- Time Complexity Basics
+
+## ▶️ Sample Output
+Bubble Sort: [2, 3, 4, 5, 8]
+Selection Sort: [2, 3, 4, 5, 8]
+Insertion Sort: [2, 3, 4, 5, 8]
